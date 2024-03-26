@@ -1,4 +1,4 @@
 # testrepo
 just a test. Nothing to see here.
 
-adding something to trigger a check - 6
+adding something to trigger a check - 7
