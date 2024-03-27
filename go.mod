@@ -1,6 +1,6 @@
 module github.com/stacklok/demo-repo-go
 
-go 1.13
+go 1.21
 
 require (
 	cloud.google.com/go v0.40.0 // indirect
